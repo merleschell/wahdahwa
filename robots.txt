@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://thicoongah.chaoyichen7.blog/sitemap.xml
